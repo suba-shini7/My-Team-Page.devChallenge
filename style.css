@@ -32,7 +32,7 @@ h3{
 @media  (max-width: 600px)  {
 	h6{
       right: 40px;
-      font-size: 12px;
+      font-size: 10px;
 	}
     .pht4{
     	margin-top: 100px;
@@ -47,7 +47,7 @@ h3{
 	bottom: -65px;
 	}
 	p{
-		font-size: 12px: 
+		font-size: 10px: 
 	}
 	}
 @media  (max-width: 950px)  {
@@ -67,4 +67,11 @@ h3{
     .name{
 	bottom: -65px;
 	}
+	@media  (max-width: 500px)  {
+	h6{
+      right: 40px;
+      font-size: 10px;
+      top:0;
+	}
+}
 	
